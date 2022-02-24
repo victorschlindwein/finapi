@@ -20,5 +20,5 @@
 - [x] Não deve ser possível buscar um extrato em uma conta não existente
 - [x] Não deve ser possível fazer um depósito em uma conta não existente
 - [x] Não deve ser possível fazer um saque em uma conta não existente
+- [x] Não deve ser possível fazer um saque quando o saldo for insuficiente
 - [] Não deve ser possível excluir uma conta não existente
-- [] Não deve ser possível fazer um saque quando o saldo for insuficiente
